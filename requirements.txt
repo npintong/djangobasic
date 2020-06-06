@@ -1,5 +1,5 @@
 ad3==2.2.1
-Django==2.2.12
+Django==2.2.13
 mysqlclient==1.4.6
 PyMySQL==0.9.3
 pytz==2019.3
